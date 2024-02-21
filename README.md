@@ -1,6 +1,6 @@
 # Olá 🖐🏻 me chamo Gabriel Barbosa 
 
-Sou estudante de Sistema de Informação na Estácio, gosto muito de tecnologia e esportes e tenho 19 anos.
+Desenvolvedor FullStack cursando o 3° período de Sistema de Informação e a cada que passo me aprofundo na área de programação
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriell0610&theme-trasnparent&icons=true&theme=dracula)
 
