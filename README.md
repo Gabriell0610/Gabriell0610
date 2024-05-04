@@ -1,6 +1,6 @@
 # Olá 🖐🏻 me chamo Gabriel Barbosa 
 
-Desenvolvedor FullStack cursando o 3° período de Sistema de Informação me aprofudando a cada de que passa em novas tecnologias
+Desenvolvedor FullStack cursando o 3° período de Sistema de Informação e me aprofudando a cada dia que passa em novas tecnologias
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriell0610&theme-trasnparent&icons=true&theme=dracula)
 
