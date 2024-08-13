@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Tecnologias FrontEnd</h3>
+<h3 align="left">Tecnologias BackEnd</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Tecnologias BackEnd</h3>
+<h3 align="left">Tecnologias FrontEnd</h3>
 
 ###
 
