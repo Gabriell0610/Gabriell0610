@@ -2,15 +2,15 @@
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">Sobre Mim!</h2>
 
 ###
 
-<p align="left">🧠 Desenvolvedor de Software<br>📚 Cursando Sistema de Informação</p>
+<p align="left">🧠 Desenvolvedor de Software<br>📚 Cursando Sistema de Informação<br>🎮 Viciado em games</p>
 
 ###
 
-<h3 align="left">Tecnologias BackEnd</h3>
+<h2 align="left">Tecnologias BackEnd</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Tecnologias FrontEnd</h3>
+<h2 align="left">Tecnologias FrontEnd</h2>
 
 ###
 
@@ -55,13 +55,12 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriell0610&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriell0610&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">Redes sociais</h3>
+<h2 align="left">Redes sociais</h2>
 
 ###
 
