@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🧠 Desenvolvedor de Software<br>📚 Cursando Sistema de Informação<br>🎮 Viciado em games</p>
+<p align="left">🧠 Desenvolvedor de Software<br>📚 Cursando Sistema de Informação<br></p>
 
 ###
 
